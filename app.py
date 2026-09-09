@@ -1,1 +1,1 @@
-print("Hi Hello")
+print("Hi Hello, today is good day to learn Git branching!")
